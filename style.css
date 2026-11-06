@@ -1,0 +1,4 @@
+:root{--bg:#140c26;--ink:#efe4ff;--dim:#c9b8e0;--gold:#e2c17a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 Georgia,"Times New Roman",serif}
+main{max-width:720px;margin:0 auto;padding:40px 16px 64px}h1{color:var(--gold);font-weight:normal;letter-spacing:.06em}
+h2{color:var(--gold);font-weight:normal;margin-top:2em}a{color:var(--gold)}p,li{color:var(--dim)}.lang{margin-bottom:24px}hr{border:0;border-top:1px solid rgba(226,193,122,.3);margin:48px 0}
